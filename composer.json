@@ -1,0 +1,14 @@
+{
+    "name": "laieaat/laieaat",
+    "description": "scandiweb junior task using php",
+    "type": "project",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App",
+            "Core\\" : "Core"
+        }
+    }
+}
